@@ -8,9 +8,7 @@ SmooFaceEngine-master.zip
 ```
 ### [review]
 ```
-arXiv:1906.01529  [pdf, other]   cs.LG cs.CV
+arXiv:1906.01529 
 Generative Adversarial Networks: A Survey and Taxonomy
-
 Authors: Zhengwei Wang, Qi She, Tomas E. Ward
-
 ```
