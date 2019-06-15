@@ -62,6 +62,10 @@ ImageNet與ILSVRC(2010-2017):CNN進展
 物件偵測實戰
 實戰圖形驗證碼破解
 ```
+```
+惡意程式偵測Malware detection
+惡意程式分類Malware Classification
+```
 # RNN人工智慧實戰(3小時)
 ```
 RNN:從RNN到LSTM與GRU
