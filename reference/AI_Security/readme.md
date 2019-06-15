@@ -32,19 +32,20 @@ Decision tree演算法實戰
 K-means演算法實戰
 實戰網路異常偵測
 ```
-# Keras人工智慧入門實戰(3小時)
+# 人工智慧入門實戰(6小時)
+
+Keras人工智慧入門實戰(2小時)
 ```
 Keras開發模式:Sequential API與Functional API
 Keras Sequential開發實戰
 Keras Functional開發實戰
 深入理解Keras模組
 ```
-# Tensorflow人工智慧入門實戰(3小時)
+Tensorflow人工智慧入門實戰(2小時)
 ```
 
 ```
-
-# PyTorch人工智慧入門實戰(3小時)
+PyTorch人工智慧入門實戰(2小時)
 ```
 
 ```
