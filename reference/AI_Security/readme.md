@@ -63,8 +63,10 @@ ImageNet與ILSVRC(2010-2017):CNN進展
 實戰圖形驗證碼破解
 ```
 ```
-惡意程式偵測Malware detection
+惡意程式偵測Malware detection[binary classification]
+    MLP  CNN GDBT XGBoost
 惡意程式分類Malware Classification
+    CNN
 ```
 # RNN人工智慧實戰(3小時)
 ```
@@ -73,6 +75,10 @@ RNN資安實戰:殭屍網路偵測(Botnet Detection)
  https://github.com/ankiteciitkgp/botnetDetection
 RNN的進展
 ```
+```
+RNN與自然語言處理
+```
+
 # 生成型深度學習(Generative Deep learning)實戰(3小時)
 ```
 Generatvie Deep learning
@@ -83,6 +89,15 @@ VAE
 ```
 實戰GAN
 GAN的最新進展
+```
+
+# 強化學習與惡意程式攻防戰(3小時)
+```
+強化學習
+keras-rl實戰
+惡意程式偵測Malware detection[binary classification]
+惡意程式免殺技術
+Gym-malware實戰
 ```
 # 人工智慧在資安領域的最新發展(3小時)
 ```
