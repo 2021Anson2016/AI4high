@@ -64,6 +64,8 @@ ImageNet與ILSVRC(2010-2017):CNN進展
 # RNN人工智慧實戰(3小時)
 ```
 RNN:從RNN到LSTM與GRU
+RNN資安實戰:殭屍網路偵測(Botnet Detection) 
+ https://github.com/ankiteciitkgp/botnetDetection
 RNN的進展
 ```
 # 生成型深度學習(Generative Deep learning)實戰(3小時)
