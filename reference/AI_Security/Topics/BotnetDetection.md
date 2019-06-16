@@ -13,6 +13,10 @@ ISCX Botnet Dataset and CTU University Dataset.
 ```
 
 ```
+### Resource Identifier Generation Algorithms
+```
+https://arxiv.org/abs/1905.11880
+```
 
 # Papers
 ```
