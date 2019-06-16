@@ -13,6 +13,21 @@ Adaptive DDoS attack detection method based on multiple-kernel learning
 Jieren Cheng, Chen Zhang, Xiangyan Tang, Victor S. Sheng, Zhe Dong, Junqi Li, Jing Chen
 (Submitted on 20 May 2019)
 https://arxiv.org/abs/1905.07893
+
+
+DDoS Attack Detection Method Based on Network Abnormal Behavior in Big Data Environment
+Jing Chen, Xiangyan Tang, Jieren Cheng, Fengkai Wang, Ruomeng Xu
+(Submitted on 28 Mar 2019)
+https://arxiv.org/abs/1903.11844
+
+
+DDoS attack detection method based on feature extraction of deep belief network
+Li Yijie, Zhai Shang, Chen Mingrui
+(Submitted on 19 Mar 2019)
+https://arxiv.org/abs/1903.07889
+
+This method uses deep belief network to extract the features of IP packets, 
+and identifies DDoS attacks based on LSTM model
 ```
 
 # DDoS mitigation techniques
