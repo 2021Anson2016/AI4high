@@ -15,7 +15,10 @@ https://github.com/automationlogic/log-analysis
 https://enigmater.blogspot.com/2017/03/intrusion-detection-based-on-supervised.html
 https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning#web-attacks-detection-with-machine-learning
 ```
-
+### Using LSTM for analysing time series log data
+```
+[教學可用]https://github.com/oak11/Log-Data-Analysis
+```
 ### LogDevice
 ```
 LogDevice is a scalable and fault tolerant distributed log system
