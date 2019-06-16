@@ -68,17 +68,88 @@ ImageNet與ILSVRC(2010-2017):CNN進展
 惡意程式分類Malware Classification
     CNN
 ```
-# RNN人工智慧實戰(3小時)
+```
+DeepLogo, 一種基於深層卷積神經網路的品牌 logo
+https://hant.helplib.com/GitHub/article_147315
+```
+# RNN人工智慧與資安實戰(3小時)
 ```
 RNN:從RNN到LSTM與GRU
 RNN資安實戰:殭屍網路偵測(Botnet Detection) 
  https://github.com/ankiteciitkgp/botnetDetection
 RNN的進展
 ```
+### RNN與自然語言處理
 ```
-RNN與自然語言處理
+   機器翻譯
+   智能問答
+   輿情分析
+   情感分析
+   聊天機器人
+```
+### RNN與時間序列分析 Time-Series Analysis Using Recurrent Neural Networks
 ```
 
+https://www.kaggle.com/charel/learn-by-example-rnn-lstm-gru-time-series
+Predicting stock prices with LSTM
+LSTM 模型在量化交易中的應用匯總
+https://zhuanlan.zhihu.com/p/31783805
+   PM2.5預測
+
+```
+### RNN與資安
+```
+LSTM Recurrent Neural Networks  for Cybersecurity Named Entity Recognition
+
+Detecting Malicious Requests with Keras & Tensorflow
+https://medium.com/slalom-engineering/detecting-malicious-requests-with-keras-tensorflow-5d5db06b4f28
+https://github.com/adamkusey/securitai-lstm-model
+
+
+Collective Anomaly Detection based on Long Short Term Memory Recurrent Neural Network
+Lo¨ıc Bontemps, Van Loi Cao, James McDermott, and Nhien-An Le-Khac
+https://arxiv.org/ftp/arxiv/papers/1703/1703.09752.pdf
+
+Long Short Term Memory Recurrent Neural Network Classifier for Intrusion Detection
+Jihyun Kim ; Jaehyun Kim ; Huong Le Thi Thu ; Howon Kim
+https://ieeexplore.ieee.org/document/7456805
+```
+
+### RNN與log analysis
+
+```
+Recurrent Neural Network Attention Mechanisms for Interpretable System Log Anomaly Detection
+Andy Brown, Aaron Tuor, Brian Hutchinson, Nicole Nichols
+(Submitted on 13 Mar 2018)
+https://arxiv.org/abs/1803.04967
+
+
+重要論文:Min Du, Feifei Li, Guineng Zheng, Vivek Srikumar. 
+"Deeplog: Anomaly detection and diagnosis from system logs through deep learning." 
+ACM SIGSAC Conference on Computer and Communications Security(CCS), 2017.
+https://acmccs.github.io/papers/p1285-duA.pdf
+DeepLog is implemented using Keras with TensorFlow as the backend. 
+重要簡報:https://github.com/charles-typ/DeepLog-introduction
+報告影片:https://www.youtube.com/watch?v=At19CBGpbMI
+實作:
+https://github.com/mcclurmc/derplog
+https://github.com/sarimzk/Anomaly-Detection-on-IT-Logs
+A Pytorch implementation:https://github.com/wuyifan18/DeepLog
+
+https://www.cs.utah.edu/~mind/
+
+
+Log File Anomaly Detection
+Tian Yang Vikas Agrawal
+NVIDIA Inc. 
+https://cs224d.stanford.edu/reports/YangAgrawal.pdf
+
+Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data - Jaeseong Jeong
+https://www.youtube.com/watch?v=0PqzukqMcdA
+
+https://deep-log-inspection.readthedocs.io/en/docs/quickstart/
+
+```
 # 生成型深度學習(Generative Deep learning)實戰(3小時)
 ```
 Generatvie Deep learning
