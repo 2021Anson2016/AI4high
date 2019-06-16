@@ -1,3 +1,7 @@
+### LSTM與時間序列分析
+```
+https://ithelp.ithome.com.tw/articles/10195635
+```
 ### 用 LSTM 自動識別驗證碼
 ```
 https://kknews.cc/zh-tw/news/3jy4el8.html
