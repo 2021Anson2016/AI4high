@@ -1,0 +1,22 @@
+# Log analytics and machine learning
+
+```
+https://github.com/automationlogic/log-analysis
+```
+### Web attacks detection with machine learning
+```
+https://enigmater.blogspot.com/2017/03/intrusion-detection-based-on-supervised.html
+https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning#web-attacks-detection-with-machine-learning
+```
+### DeepLog
+```
+Deep Log Inspection
+https://deep-log-inspection.readthedocs.io/en/docs/architecture/
+
+https://www.cs.utah.edu/~mind/
+
+ATOM: Automated Tracking, Orchestration, and Monitoring of Resource Usage in Infrastructure as a Service Systems, 
+Min Du, Feifei Li, 
+In Proceedings of 2015 IEEE International Conference on Big Data	(IEEE BigData 2015), 
+pages TBA, Santa Clara, CA, November 2015.
+```
